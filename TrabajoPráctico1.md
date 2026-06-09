@@ -158,9 +158,11 @@ En cada etapa se observa:
 
 El comportamiento global de un sistema puede evaluarse mediante un modelo simplificado. Bajo este enfoque, se propone el siguiente índice matemático de desempeño. 
 
-\[
+
+$$
 I = \frac{\sum_{i=1}^{n} \big((e - p)_i\big)}{\sum_{i=1}^{n} \big(1 + c_i\big)}
-\]
+$$
+
 
 
 - _I_ : índice de desempeño del sistema 

@@ -1,0 +1,19 @@
+## Fundamentos de Informática - Informática I  FRCon Año 2026 
+
+## Ejercicio complementaro 
+
+## ** Dado el conjunto: _**A= ( 0,1 ) U ( 2,3 )**_ 
+
+Diseñar un script que calcule 
+
+1.	Cantidad de números que pertenecen al conjunto A. 
+2.	Cantidad de números que no pertenecen al conjunto A. 
+3.	Suma de los números pertenecientes y no pertenecientes. 
+4.	Promedio de cada grupo. 
+5.	Promedio general. 
+6.	Mayor valor ingresado. 
+7.	Menor valor ingresado. 
+8.	Porcentaje de números que pertenecen al conjunto A. 
+9.	Cantidad de números positivos, negativos y ceros. 
+10.	Mostrar cuál de los dos grupos (pertenecientes o no pertenecientes) tiene mayor promedio.
+

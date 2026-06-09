@@ -1,6 +1,4 @@
-Fundamentos de Informática Informática I FRCon 
-
-Año 2026 
+## Fundamentos de Informática - Informática I  FRCon Año 2026 
 
 ## Trabajo Práctico Nº 1 
 
@@ -76,11 +74,7 @@ Diseñar un script que:
 
 - Mostrar en pantalla los valores pertenecientes al conjunto. 
 
-- 1 - 
 
-Fundamentos de Informática Informática I FRCon 
-
-Año 2026 
 
 ## **Ejercicio 1.6:** Diseñar un script para: 
 
@@ -122,11 +116,9 @@ Año 2026
 
 - Mostrar en pantalla los valores pertenecientes al conjunto. 
 
-- 2 - 
 
-Fundamentos de Informática Informática I FRCon 
 
-Año 2026 
+
 
 ## **Parte 2:** _Aplicación en problema de ingeniería_ . 
 
@@ -194,12 +186,6 @@ Se solicita desarrollar un script en Python que permita:
 
 4. Determinar el índice global de desempeño _I_ . 
 
-- 3 - 
-
-Fundamentos de Informática Informática I FRCon 
-
-Año 2026 
-
 5. Mostrar el resultado final por pantalla. 
 
 6. Graficar _I_ vs _n_ . 
@@ -262,5 +248,5 @@ El programa debe:
 
 Realizar el análisis e interpretación del dato resultante y las gráficas obtenidas. 
 
-- 4 - 
+
 
